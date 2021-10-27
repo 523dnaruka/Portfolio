@@ -7,3 +7,22 @@ body{
 a.nav-link{
 
 }
+.list-group-item{
+  background-color:orange;
+}
+img.favorites{
+  height:150px;
+  width:150px;
+}
+img.favorites-1{
+  height:250px;
+  width:200px;
+}
+img.favorites-2{
+  height:150px;
+  width:250px;
+}
+img.favorites-3{
+  height:275px;
+  width:200px;
+}
