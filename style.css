@@ -1,14 +1,14 @@
 body{
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/ae/Webpage_background.jpg);
+  background-image:linear-gradient(to right, blue, purple) ;
 }
 .card-body{
-  background-color:orange;
+  background-color:blue;
 }
 a.nav-link{
 
 }
 .list-group-item{
-  background-color:orange;
+  background-color:blue;
 }
 img.favorites{
   height:250px;
@@ -16,7 +16,7 @@ img.favorites{
 }
 img.favorites-1{
   height:250px;
-  width:200px;
+  width:250px;
 }
 img.favorites-2{
   height:150px;
@@ -25,4 +25,16 @@ img.favorites-2{
 img.favorites-3{
   height:275px;
   width:200px;
+}
+.btn{
+  color:white;
+}
+.nav-link{
+  color:white;
+}
+.text{
+  color:white;
+}
+hr{
+  color:white;
 }
